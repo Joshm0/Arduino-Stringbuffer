@@ -1,0 +1,4 @@
+A very simple stringbuffer library made for the Arduino UNO R4 Wifi as
+a stringbuffer is not a default type in aruduino. Used in my other JR
+rail project. Makefile and Test code is provided for simple testing and
+debugging. Have fun :)
